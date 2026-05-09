@@ -1,6 +1,5 @@
 
-# Silver Bullet of Cross Domain Test Time Scaling
-
+# [IJCAI 2026]Cross Domain Test Time Scaling: Scale knowledge and reasoning on cross domains
 
 ## 📖 Method Overview
 ![Pipeline](Images/method.png)
