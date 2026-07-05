@@ -1,5 +1,5 @@
 
-# [IJCAI 2026]Cross Domain Test Time Scaling: Scale knowledge and reasoning on cross domains
+# [IJCAI 2026]Cross Domain Test Time Scaling: Scale Knowledge and Reasoning on Cross Domains
 
 ## 📖 Method Overview
 ![Pipeline](Images/method.png)
